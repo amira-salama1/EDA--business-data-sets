@@ -1,7 +1,7 @@
 # EDA--business-data-sets
 Trying different data sets mainly about customer segmentation and behavior 
 
-1- [Hotel booking demand datasets](https://github.com/amira-salama1/EDA--business-data-sets/tree/main/Hotel%20Dataset):
+1- [Hotel booking demand datasets](https://github.com/amira-salama1/EDA--business-data-sets/tree/Hotel-Data-set/Hotel%20Data%20set):
 
 Credits : data is originally from the article ['Hotel booking demand datasets'](https://www.sciencedirect.com/science/article/pii/S2352340918315191)
 , written by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019.
