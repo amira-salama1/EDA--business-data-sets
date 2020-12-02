@@ -15,7 +15,6 @@ __Acknowledgement__:
 This dataset is part of Airbnb Inside, and the original source can be found [here](http://insideairbnb.com/seattle/)
 
 __Inspiration__:
-
 A [kaggle](https://www.kaggle.com/commit/understanding-customer-experience/notebook?select=listings.csv) anlaysis about imporoving Customer Experience
 
 
