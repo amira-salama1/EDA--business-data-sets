@@ -3,7 +3,7 @@ Trying different data sets mainly about customer Experience, Segmentation and Be
 
 1-[Seattle Airbnb Open Data](https://github.com/amira-salama1/EDA--business-data-sets/tree/main/Seattle%20Airbnb):
 
-this Kaggle [Seattle](https://www.kaggle.com/airbnb/seattle) dataset:
+this Kaggle [Airbnb Seattle](https://www.kaggle.com/airbnb/seattle) dataset include:
 
 -Listings, including full descriptions and average review score
 
