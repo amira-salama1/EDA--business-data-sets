@@ -1,7 +1,7 @@
 # EDA--business-data-sets
 Trying different data sets mainly about customer Experience, Segmentation and Behavior
 
-1-[Seattle Airbnb Open Data]():
+1-[Seattle Airbnb Open Data](https://github.com/amira-salama1/EDA--business-data-sets/tree/main/Seattle%20Airbnb):
 
 this Kaggle [Seattle](https://www.kaggle.com/airbnb/seattle) dataset:
 
