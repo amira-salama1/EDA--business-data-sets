@@ -5,7 +5,7 @@ Trying different data sets mainly about customer Experience, Segmentation and Be
 
 The data were obtained from the Women Entrepreneurship Index and Global Entrepreneurship Index report published in 2015.
 The research is limited to OECD countries where all data for 2015 are available at the same time in the database.
-link to file frpom [Kaggle](https://www.kaggle.com/babyoda/women-entrepreneurship-and-labor-force)
+link to file from [Kaggle](https://www.kaggle.com/babyoda/women-entrepreneurship-and-labor-force)
 
 
 2-[Seattle Airbnb Open Data](https://github.com/amira-salama1/EDA--business-data-sets/tree/main/Seattle%20Airbnb):
