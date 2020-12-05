@@ -11,3 +11,7 @@ Are European Union membership variable and development variable independent from
 Do the Women Entrepreneurship Index and Global Entrepreneurship Index values show a statistically significant difference between the countries that are members of the European Union and not? (Method Mann-Whitney U)
 
 Is there a statistically significant relationship between Women's Entrepreneurship Index and Global Entrepreneurship Index values? (Method Spearman Correlation Coefficient)
+
+__Further Research__
+
+There's an Excellent report from [The Global Entrepreneurship and Development Institute ](https://thegedi.org/research/womens-entrepreneurship-index/) about the dataset although this research included more countries than that of the One on Kaggle.
