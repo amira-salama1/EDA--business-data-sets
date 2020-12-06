@@ -22,7 +22,7 @@ __Acknowledgement__:
 This dataset is part of Airbnb Inside, and the original source can be found [here](http://insideairbnb.com/seattle/)
 
 __Inspiration__:
-A [kaggle](https://www.kaggle.com/commit/understanding-customer-experience/notebook?select=listings.csv) anlaysis about imporoving Customer Experience
+A [kaggle](https://www.kaggle.com/commit/understanding-customer-experience/notebook?select=listings.csv) member anlaysis about improving Customer Experience
 
 
 3- [Hotel booking demand datasets](https://github.com/amira-salama1/EDA--business-data-sets/tree/main/Hotel%20Data%20set):
