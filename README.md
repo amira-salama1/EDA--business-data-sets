@@ -25,7 +25,7 @@ __Inspiration__:
 A [kaggle](https://www.kaggle.com/commit/understanding-customer-experience/notebook?select=listings.csv) anlaysis about imporoving Customer Experience
 
 
-2- [Hotel booking demand datasets](https://github.com/amira-salama1/EDA--business-data-sets/tree/main/Hotel%20Data%20set):
+3- [Hotel booking demand datasets](https://github.com/amira-salama1/EDA--business-data-sets/tree/main/Hotel%20Data%20set):
 
 Credits : data is originally from the article ['Hotel booking demand datasets'](https://www.sciencedirect.com/science/article/pii/S2352340918315191)
 , written by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019.
