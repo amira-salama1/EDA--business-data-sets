@@ -1,4 +1,4 @@
-This data set (origin from [kaggle](https://www.kaggle.com/juzershakir/tmdb-movies-dataset) contains information about +10,000 movies collected fromThe Movie Database (TMDb), including user ratings and revenue.
+This data set (origin from [kaggle](https://www.kaggle.com/juzershakir/tmdb-movies-dataset) ) contains information about +10,000 movies collected fromThe Movie Database (TMDb), including user ratings and revenue.
 
 ● Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters.
 
