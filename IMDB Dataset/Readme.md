@@ -8,7 +8,11 @@ This data set (origin from [kaggle](https://www.kaggle.com/juzershakir/tmdb-movi
 
 Questions Discussed:
 
-1.2.0.1  Q:How has Popularity evolved over the years ?
-1.2.0.2  Q:Which genres are most popular from year to year?
-1.2.0.3  Q:What kinds of properties are associated with movies that have high revenues?
-1.2.0.4  Q: Who are the Directors of most successful movies in terms of revenue?
+1  Q:How has Popularity evolved over the years ?
+
+2  Q:Which genres are most popular from year to year?
+
+3  Q:What kinds of properties are associated with movies that have high revenues?
+
+4  Q: Who are the Directors of most successful movies in terms of revenue?
+
