@@ -1,7 +1,7 @@
 # EDA--business-data-sets
 Trying different data sets mainly about customer Experience, Segmentation and Behavior
 
-1-[Prosper Loan DataSet]():
+1-[Prosper Loan DataSet](https://github.com/amira-salama1/EDA--business-data-sets/tree/main/Prosper%20Loan%20Data):
 
 Prosper Marketplace is America's first peer-to-peer lending marketplace, with over $7 billion in funded loans, borrowers request personal loans on Prosper and investors (individual or institutional) can fund anywhere from USD 2000 to USD 40000 per loan request.
 Investors can consider borrowers’ credit scores, ratings, and histories and the category of the loan. Prosper handles the servicing of the loan and collects and distributes borrower payments and interest back to the loan investors. wikipedia source link
