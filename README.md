@@ -47,8 +47,6 @@ __Inspiration__:
 A [kaggle](https://www.kaggle.com/commit/understanding-customer-experience/notebook?select=listings.csv) member anlaysis about improving Customer Experience
 
 
-5- [Hotel booking demand datasets](https://github.com/amira-salama1/EDA--business-data-sets/tree/main/Hotel%20Data%20set):
+5- [IBM_HR_Analysis DataSet]((https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)):
 
-Credits : data is originally from the article ['Hotel booking demand datasets'](https://www.sciencedirect.com/science/article/pii/S2352340918315191)
-, written by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019.
-link to CSV was from [Tidytuesday](https://github.com/rfordatascience/tidytuesday), this data set was aiming at the development of prediction models to classify a hotel booking׳s likelihood to be canceled
+The dataset contains 1470 observation and 35 features, "the task is to Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’ " as stated by dataset contributer on kaggle 
