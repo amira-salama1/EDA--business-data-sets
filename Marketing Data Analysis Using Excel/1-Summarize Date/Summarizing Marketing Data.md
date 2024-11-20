@@ -20,6 +20,6 @@ Add Sparklines and Conditional formatting
 * Consider guaranteeing the availability and delivery of the ingredients
 * Consider hiring extra workers during the Seasonal months
 
-5-	Analyzing the Trend
-Visualize Average Rev per Year/Quarter/month
-Measure % Change
+5-	Analyzing the Trend:
+* Visualize Average Rev per Year/Quarter/month
+* Measure % Change
