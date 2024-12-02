@@ -2,6 +2,7 @@
 [Summarizing Marketing Data Ch1.xlsx](https://github.com/user-attachments/files/17781822/Summarizing.Marketing.Data.Ch1.xlsx)
 
 Chapter 1 Summary:
+-----------------
 
 1-	Summarize sales (Pivot Table) Slicers adding more options 
 By: Month,
