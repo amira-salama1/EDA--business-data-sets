@@ -1,4 +1,4 @@
-This is a Project to Clean a Bank Marketing Campaign Dataset, provided by [DataCamp](https://app.datacamp.com/learn/projects/1613)
+This is a Project to Clean a Bank Marketing Campaign Dataset, provided by [DataCamp](https://app.datacamp.com/learn/projects/1613) projects 
 
 The Project demonstrates Data cleaning skills that are essential for data engineers, encompassing reading, modifying, splitting, and storing data.
 
