@@ -4,4 +4,4 @@ The Project demonstrates Data cleaning skills that are essential for data engine
 
 In the notebook, ywe will apply data-cleaning skills to process information about marketing campaigns run by a bank.
 
-* modify values, add new features, convert data types, and save data into multiple files.
+* Modify values, add new features, convert data types, and save data into multiple files.
