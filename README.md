@@ -50,3 +50,5 @@ A [kaggle](https://www.kaggle.com/commit/understanding-customer-experience/noteb
 5- [IBM_HR_Analysis DataSet](https://github.com/amira-salama1/EDA--business-data-sets/tree/main/IBM_HR_DataAnalysis):
 
 The dataset contains 1470 observation and 35 features, "the task is to Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’ " as stated by dataset contributer on [kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset) 
+
+6-[Cleaning Bank Marketing DataSet](https://github.com/amira-salama1/EDA--business-data-sets/tree/main/Cleaning%20Bank%20Marketing%20Campaign):
