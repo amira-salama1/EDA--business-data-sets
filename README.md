@@ -54,3 +54,7 @@ The dataset contains 1470 observation and 35 features, "the task is to Uncover t
 6-[Cleaning Bank Marketing DataSet](https://github.com/amira-salama1/EDA--business-data-sets/tree/main/Cleaning%20Bank%20Marketing%20Campaign):
 
 The Project demonstrates Data cleaning skills that are essential for data engineers & data analysts encompassing reading, modifying, splitting, and storing data.
+
+7-[Sleep Data Analysis](https://github.com/amira-salama1/EDA--business-data-sets/tree/main/Sleep%20Data%20Analysis):
+
+
