@@ -57,4 +57,6 @@ The Project demonstrates Data cleaning skills that are essential for data engine
 
 7-[Sleep Data Analysis](https://github.com/amira-salama1/EDA--business-data-sets/tree/main/Sleep%20Data%20Analysis):
 
+Analyze the lifestyle survey data with Python to discover relationships between exercise, gender, occupation, and sleep quality. See if you can identify patterns leading to insights on sleep quality.
+
 
