@@ -1,1 +1,1 @@
-This is an Exploratory Data Analysis using data Heart Disease from [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
+This is an Exploratory Data Analysis using data Heart Disease from [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) & Disease prediction using different ML classification algorithms
